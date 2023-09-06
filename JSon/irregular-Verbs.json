@@ -1,0 +1,494 @@
+{
+    "table":{
+        "rows":[
+            {
+                "Infinitive": "Sweep",
+                "Past Tence" : "Swept",
+                "Past Participle" : "Swept",
+                "Gerund" : "Sweeping",
+                "Spanish" : "Barrer"
+
+            },
+            {
+                "Infinitive": "Drink",
+                "Past Tence" : "Drank",
+                "Past Participle" : "Drunk",
+                "Gerund" : "Drinking",
+                "Spanish" : "Beber"
+            },
+            {
+                "Infinitive": "Ride",
+                "Past Tence" : "Rode",
+                "Past Participle" : "Riden",
+                "Gerund" : "Riding",
+                "Spanish" : "Montar"
+            },
+            {
+                "Infinitive": "Fall",
+                "Past Tence" : "Fell",
+                "Past Participle" : "Fallen",
+                "Gerund" : "Falling",
+                "Spanish" : "Fallar"
+            },
+            {
+                "Infinitive": "Sing",
+                "Past Tence" : "Sang",
+                "Past Participle" : "Sung",
+                "Gerund" : "Singing",
+                "Spanish" : "Cantar"
+            },
+            
+            {
+                "Infinitive": "Set",
+                "Past Tence" : "Set",
+                "Past Participle" : "Set",
+                "Gerund" : "Setting",
+                "Spanish" : "Colocar"
+            },
+            
+            {
+                "Infinitive": "Eat",
+                "Past Tence" : "Ate",
+                "Past Participle" : "Eaten",
+                "Gerund" : "Eating",
+                "Spanish" : "Comer"
+            },
+            
+            {
+                "Infinitive": "Buy",
+                "Past Tence" : "Bought",
+                "Past Participle" : "Bought",
+                "Gerund" : "Buying",
+                "Spanish" : "Comprar"
+            },
+            
+            {
+                "Infinitive": "Meet",
+                "Past Tence" : "Met",
+                "Past Participle" : "Met",
+                "Gerund" : "Meeting",
+                "Spanish" : "Conocer"
+            },
+            
+            {
+                "Infinitive": "Know",
+                "Past Tence" : "Knew",
+                "Past Participle" : "Known",
+                "Gerund" : "Knowing",
+                "Spanish" : "Saber"
+            },
+            
+            {
+                "Infinitive": "Get",
+                "Past Tence" : "Got",
+                "Past Participle" : "Gotten",
+                "Gerund" : "Getting",
+                "Spanish" : "Conseguir"
+            },
+            
+            {
+                "Infinitive": "Build",
+                "Past Tence" : "Built",
+                "Past Participle" : "Built",
+                "Gerund" : "Building",
+                "Spanish" : "Construir"
+            },
+            
+            {
+                "Infinitive": "Cut",
+                "Past Tence" : "Cut",
+                "Past Participle" : "Cut",
+                "Gerund" : "Cutting",
+                "Spanish" : "Cortar"
+            },
+            
+            {
+                "Infinitive": "Run",
+                "Past Tence" : "Ran",
+                "Past Participle" : "Run",
+                "Gerund" : "Running",
+                "Spanish" : "Correr"
+            },
+            
+            {
+                "Infinitive": "Grow-up",
+                "Past Tence" : "Grew-up",
+                "Past Participle" : "Grown-up",
+                "Gerund" : "Growing-up",
+                "Spanish" : "Crecer"
+            },
+            
+            {
+                "Infinitive": "Give",
+                "Past Tence" : "Gave",
+                "Past Participle" : "Given",
+                "Gerund" : "Giving",
+                "Spanish" : "Dar"
+            },
+            
+            {
+                "Infinitive": "Tell",
+                "Past Tence" : "Told",
+                "Past Participle" : "Told",
+                "Gerund" : "Telling",
+                "Spanish" : "Decir"
+            },
+            
+            {
+                "Infinitive": "Wake-up",
+                "Past Tence" : "Woke-up",
+                "Past Participle" : "Waken-up",
+                "Gerund" : "Waking-up",
+                "Spanish" : "DEspertar"
+            },
+            
+            {
+                "Infinitive": "Shoot",
+                "Past Tence" : "Shot",
+                "Past Participle" : "Shot",
+                "Gerund" : "Shooting",
+                "Spanish" : "Disparar"
+            },
+            
+            {
+                "Infinitive": "Slep",
+                "Past Tence" : "Slept",
+                "Past Participle" : "Slept",
+                "Gerund" : "Sleeping",
+                "Spanish" : "Dormir"
+            },
+            
+            {
+                "Infinitive": "Begin",
+                "Past Tence" : "Began",
+                "Past Participle" : "Begun",
+                "Gerund" : "Beginnig",
+                "Spanish" : "Empezar"
+            },
+            
+            {
+                "Infinitive": "Find",
+                "Past Tence" : "Found",
+                "Past Participle" : "Found",
+                "Gerund" : "Finding",
+                "Spanish" : "Encontar"
+            },
+            
+            {
+                "Infinitive": "Teach",
+                "Past Tence" : "Taught",
+                "Past Participle" : "Taught",
+                "Gerund" : "Teaching",
+                "Spanish" : "Enseñar"
+            },
+            
+            {
+                "Infinitive": "Write",
+                "Past Tence" : "Wrote",
+                "Past Participle" : "Written",
+                "Gerund" : "Writing",
+                "Spanish" : "Escribir"
+            },
+            
+            {
+                "Infinitive": "Win",
+                "Past Tence" : "Won",
+                "Past Participle" : "Won",
+                "Gerund" : "Winning",
+                "Spanish" : "Ganar"
+            },
+            
+            {
+                "Infinitive": "Keep",
+                "Past Tence" : "Kept",
+                "Past Participle" : "Kept",
+                "Gerund" : "Keeping",
+                "Spanish" : "Guardar"
+            },
+            
+            {
+                "Infinitive": "Speak",
+                "Past Tence" : "Spoke",
+                "Past Participle" : "Spoken",
+                "Gerund" : "Speaking",
+                "Spanish" : "Hablar"
+            },
+            
+            {
+                "Infinitive": "Do",
+                "Past Tence" : "Did",
+                "Past Participle" : "Done",
+                "Gerund" : "Doing",
+                "Spanish" : "Hacer"
+            },
+            
+            {
+                "Infinitive": "Hurt",
+                "Past Tence" : "Hurt",
+                "Past Participle" : "Hurt",
+                "Gerund" : "Hurting",
+                "Spanish" : "Herir"
+            },
+            {
+                "Infinitive": "Go",
+                "Past Tence" : "Went",
+                "Past Participle" : "Gone",
+                "Gerund" : "Going",
+                "Spanish" : "Ir"
+            } ,
+            {
+                "Infinitive": "Read",
+                "Past Tence" : "Read",
+                "Past Participle" : "Read",
+                "Gerund" : "Reading",
+                "Spanish" : "Leer"
+            },
+            {
+                "Infinitive": "Become",
+                "Past Tence" : "Became",
+                "Past Participle" : "Become",
+                "Gerund" : "Becoming",
+                "Spanish" : "Llegar a ser"
+            },
+            {
+                "Infinitive": "Send",
+                "Past Tence" : "Sent",
+                "Past Participle" : "Sent",
+                "Gerund" : "Sending",
+                "Spanish" : "Enviar"
+            },
+            {
+                "Infinitive": "Drive",
+                "Past Tence" : "Drove",
+                "Past Participle" : "Driven",
+                "Gerund" : "Driving",
+                "Spanish" : "Manejar"
+            },
+            
+            {
+                "Infinitive": "Swim",
+                "Past Tence" : "Swam",
+                "Past Participle" : "Swum",
+                "Gerund" : "Swimming",
+                "Spanish" : "Nadar"
+            },
+            {
+                "Infinitive": "Hear",
+                "Past Tence" : "Heard",
+                "Past Participle" : "Heard",
+                "Gerund" : "Hearing",
+                "Spanish" : "Oir"
+            },
+            {
+                "Infinitive": "",
+                "Past Tence" : "",
+                "Past Participle" : "",
+                "Gerund" : "",
+                "Spanish" : ""
+            },
+            
+            {
+                "Infinitive": "Forget",
+                "Past Tence" : "Forgot",
+                "Past Participle" : "Forgotten",
+                "Gerund" : "Forgetting",
+                "Spanish" : "Olvidar"
+            },
+            
+            {
+                "Infinitive": "Pay",
+                "Past Tence" : "Paid",
+                "Past Participle" : "Paid",
+                "Gerund" : "Paying",
+                "Spanish" : "Pagar"
+            },
+            {
+                "Infinitive": "Stand",
+                "Past Tence" : "Stood",
+                "Past Participle" : "Stood",
+                "Gerund" : "Standing",
+                "Spanish" : "Pararse"
+            },
+            {
+                "Infinitive": "Hit",
+                "Past Tence" : "Hit",
+                "Past Participle" : "Hit",
+                "Gerund" : "Hitting",
+                "Spanish" : "Pegar"
+            },
+            
+            {
+                "Infinitive": "Think",
+                "Past Tence" : "Thought",
+                "Past Participle" : "Tought",
+                "Gerund" : "Thinking",
+                "Spanish" : "Pensar"
+            },
+            
+            {
+                "Infinitive": "Lose",
+                "Past Tence" : "Lost",
+                "Past Participle" : "Lost",
+                "Gerund" : "Losing",
+                "Spanish" : "Perder"
+            },
+            
+            {
+                "Infinitive": "Let",
+                "Past Tence" : "Let",
+                "Past Participle" : "Let",
+                "Gerund" : "Letting",
+                "Spanish" : "Permitir"
+            },
+            
+            {
+                "Infinitive": "Put",
+                "Past Tence" : "Put",
+                "Past Participle" : "Put",
+                "Gerund" : "Putting",
+                "Spanish" : "Poner"
+            },
+            
+            {
+                "Infinitive": "Lend",
+                "Past Tence" : "Lent",
+                "Past Participle" : "Lent",
+                "Gerund" : "Lending",
+                "Spanish" : "Permitir"
+            },
+            
+            {
+                "Infinitive": "Steal",
+                "Past Tence" : "Stole",
+                "Past Participle" : "Stolen",
+                "Gerund" : "Stealing",
+                "Spanish" : "Robar"
+            },
+            {
+                "Infinitive": "Break",
+                "Past Tence" : "Broke",
+                "Past Participle" : "Broken",
+                "Gerund" : "Breaking",
+                "Spanish" : "Romper"
+            },
+            {
+                "Infinitive": "Shake",
+                "Past Tence" : "Shook",
+                "Past Participle" : "Shaken",
+                "Gerund" : "Shaking",
+                "Spanish" : "Sacudir"
+            },
+            {
+                "Infinitive": "Leave",
+                "Past Tence" : "Left",
+                "Past Participle" : "Left",
+                "Gerund" : "leaving",
+                "Spanish" : "Salir"
+            },
+            {
+                "Infinitive": "Sit",
+                "Past Tence" : "Sat",
+                "Past Participle" : "Sat",
+                "Gerund" : "Sitting",
+                "Spanish" : "Sentarse"
+            },
+            {
+                "Infinitive": "Feel",
+                "Past Tence" : "Felt",
+                "Past Participle" : "Felt",
+                "Gerund" : "Feeling",
+                "Spanish" : "Sentir"
+            },
+            {
+                "Infinitive": "Be",
+                "Past Tence" : "Was/Were",
+                "Past Participle" : "Benn",
+                "Gerund" : "Being",
+                "Spanish" : "Ser/Estar"
+            },
+            {
+                "Infinitive": "Dream",
+                "Past Tence" : "Dreamt",
+                "Past Participle" : "Dreamt",
+                "Gerund" : "Dreaming",
+                "Spanish" : "Dormir"
+            },
+            {
+                "Infinitive": "Hold",
+                "Past Tence" : "Held",
+                "Past Participle" : "Held",
+                "Gerund" : "Holding",
+                "Spanish" : "Sostener"
+            },
+            {
+                "Infinitive": "Have/Has",
+                "Past Tence" : "Had",
+                "Past Participle" : "Had",
+                "Gerund" : "Having",
+                "Spanish" : "Tener"
+            },
+            {
+                "Infinitive": "Throw",
+                "Past Tence" : "Threw",
+                "Past Participle" : "Thrown",
+                "Gerund" : "Throwing",
+                "Spanish" : "Tirar/Aventar"
+            },
+            
+            {
+                "Infinitive": "Take",
+                "Past Tence" : "Took",
+                "Past Participle" : "Taken",
+                "Gerund" : "Taking",
+                "Spanish" : "Tomar/Llevar"
+            },
+            
+            {
+                "Infinitive": "Bring",
+                "Past Tence" : "Brought",
+                "Past Participle" : "Brought",
+                "Gerund" : "Bringing",
+                "Spanish" : "Traer"
+            },
+            {
+                "Infinitive": "Wear",
+                "Past Tence" : "Wore",
+                "Past Participle" : "Wom",
+                "Gerund" : "Wearing",
+                "Spanish" : "Usar"
+            },
+            
+            {
+                "Infinitive": "Sell",
+                "Past Tence" : "Sold",
+                "Past Participle" : "Sold",
+                "Gerund" : "Selling",
+                "Spanish" : "Vender"
+            },
+            
+            {
+                "Infinitive": "Come",
+                "Past Tence" : "Came",
+                "Past Participle" : "Come",
+                "Gerund" : "Coming",
+                "Spanish" : "Venir"
+            },
+            
+            {
+                "Infinitive": "See",
+                "Past Tence" : "Saw",
+                "Past Participle" : "Seen",
+                "Gerund" : "Seeing",
+                "Spanish" : "Ver"
+            },
+            
+            {
+                "Infinitive": "Fly",
+                "Past Tence" : "Flew",
+                "Past Participle" : "Flown",
+                "Gerund" : "Flying",
+                "Spanish" : "Volar"
+            }
+        ]
+    }
+}

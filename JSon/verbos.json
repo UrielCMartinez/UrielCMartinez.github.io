@@ -1,0 +1,490 @@
+{
+    "table":{
+        "rows":[
+            {
+                "Infinitive": "Open",
+                "Past Tence" : "Opened",
+                "Past Participle" : "Opened",
+                "Gerund" : "Opening",
+                "Spanish" : "Abrir"
+
+            },
+            {
+                "Infinitive": "Accept",
+                "Past Tence" : "Accepted",
+                "Past Participle" : "Accepted",
+                "Gerund" : "Accepting",
+                "Spanish" : "Aceptar"
+            },
+            {
+                "Infinitive": "Love",
+                "Past Tence" : "Loved",
+                "Past Participle" : "Loved",
+                "Gerund" : "Loving",
+                "Spanish" : "Amar"
+            },
+            {
+                "Infinitive": "Learn",
+                "Past Tence" : "Learned",
+                "Past Participle" : "Learned",
+                "Gerund" : "Learning",
+                "Spanish" : "Aprender"
+            },
+            {
+                "Infinitive": "Learn",
+                "Past Tence" : "Learned",
+                "Past Participle" :  "Learned",
+                "Gerund" :  "Learning",
+                "Spanish" : "Aprender"
+            },
+            {
+                "Infinitive": "Hurry",
+                "Past Tence" : "Hurried",
+                "Past Participle" :  "Hurried",
+                "Gerund" :  "Hurrying",
+                "Spanish" : "Herir"
+            },
+            {
+                "Infinitive": "Dare",
+                "Past Tence" : "Dared",
+                "Past Participle" :  "Dared",
+                "Gerund" :  "Daring",
+                "Spanish" : "Atreverse"
+            },
+            {
+                "Infinitive": "Help",
+                "Past Tence" : "Helped",
+                "Past Participle" :  "Helped",
+                "Gerund" :  "Helping",
+                "Spanish" : "Ayudar"
+            },
+            {
+                "Infinitive": "Dance",
+                "Past Tence" : "Danced",
+                "Past Participle" :  "Danced",
+                "Gerund" :  "Dancing",
+                "Spanish" : "Bailar"
+            },
+            {
+                "Infinitive": "Erase",
+                "Past Tence" : "Erased",
+                "Past Participle" :  "Erased",
+                "Gerund" :  "Erasing",
+                "Spanish" : "Borrar"
+            },
+            {
+                "Infinitive": "Change",
+                "Past Tence" : "Changed",
+                "Past Participle" :  "Changed",
+                "Gerund" :  "Changing",
+                "Spanish" : "Cambiar"
+            },
+            {
+                "Infinitive": "Walk",
+                "Past Tence" : "Walked",
+                "Past Participle" :  "Walked",
+                "Gerund" :  "Walking",
+                "Spanish" : "Caminar"
+            },
+            {
+                "Infinitive": "Close",
+                "Past Tence" : "Closed",
+                "Past Participle" :  "Closed",
+                "Gerund" :  "Closing",
+                "Spanish" : "Cerrar"
+            },
+            {
+                "Infinitive": "Date",
+                "Past Tence" : "Dated",
+                "Past Participle" :  "Dated",
+                "Gerund" :  "Dating",
+                "Spanish" : "Citar"
+            },
+            {
+                "Infinitive": "Cook",
+                "Past Tence" : "Cooked",
+                "Past Participle" :  "Cooked",
+                "Gerund" :  "Cooking",
+                "Spanish" : "Cosinar"
+            },
+            {
+                "Infinitive": "Consider",
+                "Past Tence" : "Considered",
+                "Past Participle" :  "Considered",
+                "Gerund" :  "Considering",
+                "Spanish" : "Considerar"
+            },
+            {
+                "Infinitive": "Count",
+                "Past Tence" : "Counted",
+                "Past Participle" :  "Counted",
+                "Gerund" :  "Counting",
+                "Spanish" : "Contar"
+            },
+            {
+                "Infinitive": "Answer",
+                "Past Tence" : "asnwered",
+                "Past Participle" :  "asnwered",
+                "Gerund" :  "Answering",
+                "Spanish" : "Responder"
+            },
+            {
+                "Infinitive": "Wish",
+                "Past Tence" : "Wished",
+                "Past Participle" :  "Wished",
+                "Gerund" :  "Wishing",
+                "Spanish" : "desear"
+            },
+            {
+                "Infinitive": "Start",
+                "Past Tence" : "Started",
+                "Past Participle" :  "Started",
+                "Gerund" :  "Starting",
+                "Spanish" : "Iniciar"
+            },
+            {
+                "Infinitive": "Push",
+                "Past Tence" : "Pushed",
+                "Past Participle" :  "Pushed",
+                "Gerund" :  "Pushing",
+                "Spanish" : "Empujar"
+            },
+            {
+                "Infinitive": "Deliver",
+                "Past Tence" : "Delivered",
+                "Past Participle" :  "Delivered",
+                "Gerund" :  "Delivering",
+                "Spanish" : "Entregar"
+            },
+            {
+                "Infinitive": "Listen",
+                "Past Tence" : "Listened",
+                "Past Participle" :  "Listened",
+                "Gerund" :  "Listening",
+                "Spanish" : "escuchar"
+            },
+            {
+                "Infinitive": "Except",
+                "Past Tence" : "Excepted",
+                "Past Participle" :  "Excepted",
+                "Gerund" :  "Excepting",
+                "Spanish" : "Esperar/ esperanza"
+            },
+            {
+                "Infinitive": "Wait",
+                "Past Tence" : "Waited",
+                "Past Participle" :  "Waited",
+                "Gerund" :  "Waiting",
+                "Spanish" : "Esperar/lugar"
+            },
+            {
+                "Infinitive": "Study",
+                "Past Tence" : "Studied",
+                "Past Participle" :  "Studied",
+                "Gerund" :  "Studying",
+                "Spanish" : "Estudiar"
+            },
+            {
+                "Infinitive": "Miss",
+                "Past Tence" : "Missed",
+                "Past Participle" :  "Missed",
+                "Gerund" :  "Missing",
+                "Spanish" : "Extrañar"
+            },
+            {
+                "Infinitive": "Smoke",
+                "Past Tence" : "Smoked",
+                "Past Participle" :  "Smoked",
+                "Gerund" :  "Smoking",
+                "Spanish" : "Fumar"
+            },
+            {
+                "Infinitive": "Enjoy",
+                "Past Tence" : "Enjoyed",
+                "Past Participle" :  "Enjoyed",
+                "Gerund" :  "Enjoying",
+                "Spanish" : "Gozar"
+            },
+            {
+                "Infinitive": "Like",
+                "Past Tence" : "Liked",
+                "Past Participle" :  "Liked",
+                "Gerund" :  "Liking",
+                "Spanish" : "Gustar"
+            },
+            {
+                "Infinitive": "Talk",
+                "Past Tence" : "Talked",
+                "Past Participle" :  "Talked",
+                "Gerund" :  "Talking",
+                "Spanish" : "hablar"
+            },
+            {
+                "Infinitive": "Intend",
+                "Past Tence" : "Intended",
+                "Past Participle" :  "Intended",
+                "Gerund" :  "Intending",
+                "Spanish" : "Intentar"
+            },
+            {
+                "Infinitive": "Play",
+                "Past Tence" : "Played",
+                "Past Participle" :  "Played",
+                "Gerund" :  "Playing",
+                "Spanish" : "Jugar"
+            },
+            {
+                "Infinitive": "Wash",
+                "Past Tence" : "Washed",
+                "Past Participle" :  "Washed",
+                "Gerund" :  "Washing",
+                "Spanish" : "Lavar"
+            },
+            {
+                "Infinitive": "Clean",
+                "Past Tence" : "Cleaned",
+                "Past Participle" :  "Cleaned",
+                "Gerund" :  "Cleaning",
+                "Spanish" : "Limpiar"
+            },
+            {
+                "Infinitive": "Arrive",
+                "Past Tence" : "Arrived",
+                "Past Participle" :  "Arrived",
+                "Gerund" :  "Arriving",
+                "Spanish" : "Llegar"
+            },
+            {
+                "Infinitive": "Fill",
+                "Past Tence" : "Filled",
+                "Past Participle" :  "Filled",
+                "Gerund" :  "Filling",
+                "Spanish" : "Llenar"
+            },
+            {
+                "Infinitive": "Rain ",
+                "Past Tence" : "Rained",
+                "Past Participle" :  "Rained",
+                "Gerund" :  "Rainnig",
+                "Spanish" : "Llover"
+            },
+            {
+                "Infinitive": "Look",
+                "Past Tence" : "Looked",
+                "Past Participle" :  "Looked",
+                "Gerund" :  "Looking",
+                "Spanish" : "Mirar"
+            },
+            {
+                "Infinitive": "Show",
+                "Past Tence" : "Showed",
+                "Past Participle" :  "Showed",
+                "Gerund" :  "Showing",
+                "Spanish" : "Mostrar"
+            },
+            {
+                "Infinitive": "Need",
+                "Past Tence" : "Needed",
+                "Past Participle" :  "Needed",
+                "Gerund" :  "Needing",
+                "Spanish" : "Necesitar"
+            },
+            {
+                "Infinitive": "Name",
+                "Past Tence" : "Named",
+                "Past Participle" :  "Named",
+                "Gerund" :  "Naming",
+                "Spanish" : "Nombrar"
+            },
+            {
+                "Infinitive": "Order",
+                "Past Tence" : "Ordered",
+                "Past Participle" :  "Ordered",
+                "Gerund" :  "Ordering",
+                "Spanish" : "Ordenar"
+            },
+            {
+                "Infinitive": "Stop",
+                "Past Tence" : "Stoped",
+                "Past Participle" :  "Stoped",
+                "Gerund" :  "Stoping",
+                "Spanish" : "Detener"
+            },
+            {
+                "Infinitive": "Stay",
+                "Past Tence" : "Stayed",
+                "Past Participle" :  "Stayed",
+                "Gerund" :  "Staying",
+                "Spanish" : "Permanecer"
+            },
+            {
+                "Infinitive": "Belong",
+                "Past Tence" : "Belonged",
+                "Past Participle" :  "Belonged",
+                "Gerund" :  "Belonging",
+                "Spanish" : "Pertencer"
+            },
+            {
+                "Infinitive": "Plan",
+                "Past Tence" : "Planed",
+                "Past Participle" :  "Planed",
+                "Gerund" :  "Planning",
+                "Spanish" : "Planear"
+            },
+            {
+                "Infinitive": "Plant",
+                "Past Tence" : "Planted",
+                "Past Participle" :  "Planted",
+                "Gerund" :  "Planting",
+                "Spanish" : "Plantar"
+            },
+            {
+                "Infinitive": "Practice",
+                "Past Tence" : "Practiced",
+                "Past Participle" :  "Practiced",
+                "Gerund" :  "Practicing",
+                "Spanish" : "Practicar"
+            },
+            {
+                "Infinitive": "Ask",
+                "Past Tence" : "Asked",
+                "Past Participle" :  "Asked",
+                "Gerund" :  "Asking",
+                "Spanish" : "Preguntar"
+            },
+            {
+                "Infinitive": "Want",
+                "Past Tence" : "wanted",
+                "Past Participle" :  "wanted",
+                "Gerund" :  "Wanting",
+                "Spanish" : "Querer"
+            },
+            {
+                "Infinitive": "Remember",
+                "Past Tence" : "Remembered",
+                "Past Participle" :  "Remembered",
+                "Gerund" :  "Remembering",
+                "Spanish" : "Recordar"
+            },
+            {
+                "Infinitive": "Rent",
+                "Past Tence" : "Rented",
+                "Past Participle" :  "Rented",
+                "Gerund" :  "Renting",
+                "Spanish" : "Rentar"
+            },
+            {
+                "Infinitive": "Repeat",
+                "Past Tence" : "Repeated",
+                "Past Participle" :  "Repeated",
+                "Gerund" :  "Repeating",
+                "Spanish" : "Repetir"
+            },
+            {
+                "Infinitive": "Resist",
+                "Past Tence" : "Resisted",
+                "Past Participle" :  "Resisted",
+                "Gerund" :  "Resisting",
+                "Spanish" : "Resistir"
+            },
+            {
+                "Infinitive": "Jump",
+                "Past Tence" : "Jumped",
+                "Past Participle" :  "Jumped",
+                "Gerund" :  "Jumping",
+                "Spanish" : "Brincar"
+            },
+            {
+                "Infinitive": "Follow",
+                "Past Tence" : "Followed",
+                "Past Participle" :  "Followed",
+                "Gerund" :  "Following",
+                "Spanish" : "Seguir"
+            },
+            {
+                "Infinitive": "Point",
+                "Past Tence" : "Pointed",
+                "Past Participle" :  "Pointed",
+                "Gerund" :  "Pointing",
+                "Spanish" : "Señalar"
+            },
+            {
+                "Infinitive": "End",
+                "Past Tence" : "Ended",
+                "Past Participle" :  "Ended",
+                "Gerund" :  "Ending",
+                "Spanish" : "Terminar"
+            },
+            {
+                "Infinitive": "Finish",
+                "Past Tence" : "Finished",
+                "Past Participle" :  "Finished",
+                "Gerund" :  "Finishing",
+                "Spanish" : "Terminar"
+            },
+            {
+                "Infinitive": "Work",
+                "Past Tence" : "Worked",
+                "Past Participle" :  "Worked",
+                "Gerund" :  "Working",
+                "Spanish" : "Trabajar"
+            },
+            {
+                "Infinitive": "Try",
+                "Past Tence" : "Tried",
+                "Past Participle" :  "Tried",
+                "Gerund" :  "Trying",
+                "Spanish" : "Tratar"
+            },
+            {
+                "Infinitive": "Climb",
+                "Past Tence" : "Climbed",
+                "Past Participle" :  "Climbed",
+                "Gerund" :  "Climbing",
+                "Spanish" : "Trepar"
+            },
+            {
+                "Infinitive": "Use",
+                "Past Tence" : "used",
+                "Past Participle" :  "used",
+                "Gerund" :  "Using",
+                "Spanish" : "Usar"
+            },
+            {
+                "Infinitive": "Dress",
+                "Past Tence" : "Dressed",
+                "Past Participle" :  "Dressed",
+                "Gerund" :  "Dressing",
+                "Spanish" : "Vestir"
+            },
+            {
+                "Infinitive": "Travel",
+                "Past Tence" : "traveled",
+                "Past Participle" :  "traveled",
+                "Gerund" :  "Traveling",
+                "Spanish" : "Viajar"
+            },
+            {
+                "Infinitive": "Visit",
+                "Past Tence" : "Visited",
+                "Past Participle" :  "Visited",
+                "Gerund" :  "Visiting",
+                "Spanish" : "Visitar"
+            },
+            {
+                "Infinitive": "Live",
+                "Past Tence" : "Lived",
+                "Past Participle" :  "Lived",
+                "Gerund" :  "Living",
+                "Spanish" : "Vivir"
+            },
+            {
+                "Infinitive": "Turn",
+                "Past Tence" : "Turned",
+                "Past Participle" :  "Turned",
+                "Gerund" :  "Turning",
+                "Spanish" : "voltear"
+            }
+        ]
+    }
+}
