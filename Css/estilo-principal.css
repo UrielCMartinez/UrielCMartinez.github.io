@@ -121,6 +121,9 @@ span{
 .enfasis{
     color: var(--enfasis-color);
 }
+.enfasis-y{
+    color: yellow;
+}
 .enfasis-pink{
     color: var(--enfasis-color-pink);
 }
