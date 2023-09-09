@@ -1,0 +1,18 @@
+.container-numeros{
+    font-size: 14px;
+}
+.container-numeros span{
+    color: yellow;
+}
+.numeros-heading{
+    font-size: 24px;
+    padding:16px 0;
+    color: rgb(200, 200, 200);
+    border-radius: 16px;
+}
+@media(max-width: 600px){
+    .numeros-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
