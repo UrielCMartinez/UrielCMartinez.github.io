@@ -6,7 +6,7 @@ table{
     font-size: 2rem;
 }
 thead th:nth-child(1){
-    width: 15%;
+    width: 25%;
     text-align: left;
 }
 th{
