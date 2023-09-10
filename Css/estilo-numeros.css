@@ -1,5 +1,5 @@
 .container-numeros{
-    font-size: 14px;
+    font-size: 12px;
 }
 .container-numeros span{
     color: yellow;
@@ -9,6 +9,12 @@
     padding:16px 0;
     color: rgb(200, 200, 200);
     border-radius: 16px;
+}
+.numeros-container{
+    margin: 0 50px;
+}
+.container-days{
+    font-size: 12px;
 }
 @media(max-width: 600px){
     .numeros-container{
