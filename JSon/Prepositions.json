@@ -1,0 +1,126 @@
+{
+    "table" : {
+        "rows" : [
+            {
+              "Preposition" : "Above" ,
+              "Traduccion" : "Encima de, sobre, arriba" ,
+              "Ejemplo" : "His book is above his computer"  
+            },
+            {
+                "Preposition" : "Across" ,
+                "Traduccion" : "A lo ancho de, a traves de, al otro lado de" ,
+                "Ejemplo" : "Cloun sail across the sky"  
+              },
+              {
+                "Preposition" : "Along" ,
+                "Traduccion" : "A lo largo de" ,
+                "Ejemplo" : "We cry along to all the concert"    
+              },
+              {
+                "Preposition" : "Around" ,
+                "Traduccion" : "Alrededor de, cerca de, por" ,
+                "Ejemplo" : " The dog is running around the tree"    
+              },
+              {
+                "Preposition" : "Against" ,
+                "Traduccion" : "Contra, en contra de" ,
+                "Ejemplo" : "The plant is against the wall"    
+              },
+              {
+                "Preposition" : "At" ,
+                "Traduccion" : "En" ,
+                "Ejemplo" : "We will see you at my house"    
+              },
+              {
+                "Preposition" : "Behind" ,
+                "Traduccion" : "Detras, detras de" ,
+                "Ejemplo" : " Your son is behind the bilboard"    
+              },
+              {
+                "Preposition" : "Beside" ,
+                "Traduccion" : "Junto a" ,
+                "Ejemplo" : "My headphones are beside your book"    
+              },
+              {
+                "Preposition" : "Below" ,
+                "Traduccion" : "Debajo de" ,
+                "Ejemplo" : "The temperature is below zero"    
+              },
+              {
+                "Preposition" : "Beneath" ,
+                "Traduccion" : "Bajo, debajo de" ,
+                "Ejemplo" : "We buried my cat deep beneath my garden"    
+              },
+              {
+                "Preposition" : "Between",
+                "Traduccion" : "Entre",
+                "Ejemplo" : "My car is beetween the tree and the rock"    
+              },
+              {
+                "Preposition" : "By" ,
+                "Traduccion" : "Al lado de, junto a" ,
+                "Ejemplo" : "Your gym is by my school"    
+              },
+              {
+                "Preposition" : "Close to" ,
+                "Traduccion" : "Cerca de" ,
+                "Ejemplo" : "Cuernavaca is close to Tepoztlan"    
+              },
+              {
+                "Preposition" : "In" ,
+                "Traduccion" : "En, dentro de" ,
+                "Ejemplo" : "The party is in the museum"    
+              },
+              {
+                "Preposition" : "in front of" ,
+                "Traduccion" : "Enfrente de" ,
+                "Ejemplo" : "They open a new cinema in front of the old one"    
+              },
+              {
+                "Preposition" : "Inside" ,
+                "Traduccion" : "Dentro, en" ,
+                "Ejemplo" : "Your kid has something inside her mouth"    
+              },
+              {
+                "Preposition" : "Near" ,
+                "Traduccion" : "Cerca de",
+                "Ejemplo" : " I will see you near the bus station"    
+              },
+              {
+                "Preposition" : "On",
+                "Traduccion" : "Sobre, encima de",
+                "Ejemplo" : "How can you sleep on the flor"    
+              },
+              {
+                "Preposition" : "Opposite" ,
+                "Traduccion" : "Enfrente de, frente a" ,
+                "Ejemplo" : "The hospital is opposite the footbal stadium"    
+              },
+              {
+                "Preposition" : "Outside" ,
+                "Traduccion" : "Afuera, fuera, fuera de" ,
+                "Ejemplo" : "She is outside the drugstore"    
+              },
+              {
+                "Preposition" : "Over" ,
+                "Traduccion" : "Encima de, sobre" ,
+                "Ejemplo" : "His car ran over a traffic signal"    
+              },
+              {
+                "Preposition" : "Under" ,
+                "Traduccion" : "Debajo de, bajo" ,
+                "Ejemplo" : "The stray cats live under the bridge"    
+              },
+              {
+                "Preposition" : "Underneath" ,
+                "Traduccion" : "Bajo, debajo de" ,
+                "Ejemplo" : "The living room is right underneath my parent's room"    
+              },
+              {
+                "Preposition" : "Upon" ,
+                "Traduccion" : "Sobre, en, encima de",
+                "Ejemplo" : "We will build a school upon that mountain"    
+              }
+        ]
+    }
+}

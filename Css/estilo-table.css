@@ -9,9 +9,12 @@ thead th:nth-child(1){
     width: 15%;
     text-align: left;
 }
+th{
+    color: black;
+    background-color: aliceblue;
+}
 th,td{
     padding: 3px;
-    
 }
 .table-box{
     display: flex;
@@ -23,6 +26,6 @@ th,td{
 
 @media (max-width: 800px){
     table{
-        font-size: 1.5rem;
+        font-size: 1.6rem;
     }
 }

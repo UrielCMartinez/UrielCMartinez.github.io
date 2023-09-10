@@ -1,0 +1,189 @@
+{
+  "table-pre1" : {
+    "rows": [
+      {
+        "Preposition": "Above",
+        "Traduccion": "Encima de, sobre, arriba",
+        "Ejemplo": "His book is above his computer"
+      },
+      {
+        "Preposition" : "After" ,
+        "Traduccion" : "Despues" ,
+        "Ejemplo" : "We will eat after the Super Bowl"    
+      },
+      {
+        "Preposition" : "Around" ,
+        "Traduccion" : "Alrededor de, aproximadamente" ,
+        "Ejemplo" : "The movie is around to finish in five minutes"    
+      },
+      {
+        "Preposition" : "Before" ,
+        "Traduccion" : "Antes de" ,
+        "Ejemplo" : " I didn't study before the exam"    
+      },
+      {
+        "Preposition" : "Beyond" ,
+        "Traduccion" : "Mas alla de" ,
+        "Ejemplo" : "I have work beyond next Friday"    
+      },
+      {
+        "Preposition" : "By" ,
+        "Traduccion" : "Por" ,
+        "Ejemplo" : "By 5 PM, I will launch my new wabpage"    
+      },
+      {
+        "Preposition" : "During" ,
+        "Traduccion" : "Durante" ,
+        "Ejemplo" : "During the night, she study Medicine"    
+      },
+      {
+        "Preposition" : "For" ,
+        "Traduccion" : "Durante, por" ,
+        "Ejemplo" : " My mom worked for 50 years in that market"    
+      },
+      {
+        "Preposition" : "Past" ,
+        "Traduccion" : "Pasado" ,
+        "Ejemplo" : "In the past, I was very shy"    
+      },
+      {
+        "Preposition" : "Since" ,
+        "Traduccion" : "Desde" ,
+        "Ejemplo" : "I go to that restaurant since 1990"    
+      },
+      {
+        "Preposition" : "Throughout" ,
+        "Traduccion" : "Durante todo" ,
+        "Ejemplo" : "I will be studying English throughout all next year"    
+      },
+      {
+        "Preposition" : "Until" ,
+        "Traduccion" : "Hasta" ,
+        "Ejemplo" : "My girlfriend sings from 10 PM to 3 AM in that bar"    
+      }
+    ]
+  },
+  "table-pre2" : {
+    "rows": [
+      {
+        "Preposition": "Across",
+        "Traduccion": "A traves de",
+        "Ejemplo": "The duck walked across the road and nearly got hit by a car"
+      },
+      {
+        "Preposition": "Along",
+        "Traduccion": "A lo largo de",
+        "Ejemplo": "We ran along the beach in the morning"
+      },
+      {
+        "Preposition": "Around",
+        "Traduccion": "Alrededor de",
+        "Ejemplo": "A big rock was on the floor, so he had to walk around"
+      },
+      {
+        "Preposition": "Away from",
+        "Traduccion": "Fuera de, lejos de",
+        "Ejemplo": "The cat ran away from the dog and escaped"
+      },
+      {
+        "Preposition": "Down",
+        "Traduccion": "Hacia abajo",
+        "Ejemplo": "He climbed down the ladder to the bottom of the basement"
+      },
+      {
+        "Preposition": "From",
+        "Traduccion": "Desde",
+        "Ejemplo": "We flew from Monterrey to New York"
+      },
+      {
+        "Preposition": "Into",
+        "Traduccion": "Hacia dentro",
+        "Ejemplo": "She got into the house and closed the door"
+      },
+      {
+        "Preposition": "Off",
+        "Traduccion": "Fuera de",
+        "Ejemplo": "Please, take your thing off my room"
+      },
+      {
+        "Preposition": "Onto",
+        "Traduccion": "Sobre",
+        "Ejemplo": "Move the plant onto the table"
+      },
+      {
+        "Preposition": "Out of",
+        "Traduccion": "Hacia fuera",
+        "Ejemplo": "Take the cake out of the oven!"
+      },
+      {
+        "Preposition": "Over",
+        "Traduccion": "¨Por encima de",
+        "Ejemplo": "The cat jumped over the fence"
+      },
+      {
+        "Preposition": "Past",
+        "Traduccion": "Mas alla de, por",
+        "Ejemplo": "We could see the actors in the recording as we walked past the park"
+      },
+      {
+        "Preposition": "To",
+        "Traduccion": "A, hacia",
+        "Ejemplo": " Does this bus go to Merida?"
+      },
+      {
+        "Preposition": "Towards",
+        "Traduccion": "Hacia",
+        "Ejemplo": "He didn't recognize the person who was coming towards him"
+      },
+      {
+        "Preposition": "Under",
+        "Traduccion": "Debajo de",
+        "Ejemplo": "Submarines can travel under the water"
+      },
+      {
+        "Preposition": "Up",
+        "Traduccion": "Hacia arriba",
+        "Ejemplo": "The kids ran up the hill"
+      }
+    ]
+  },
+  "table-pre3" : {
+    "rows": [
+      {
+        "Preposition": "In",
+        "Traduccion": "Se usa para ubicar en un area",
+        "Ejemplo": "They live in Guadalajara"
+      },
+      {
+        "Preposition": "At",
+        "Traduccion": "Se usa para ubicar en un punto especifico",
+        "Ejemplo": "I'll see you at the school"
+      },
+      {
+        "Preposition": "On",
+        "Traduccion": "Se usa para ubicar en una superficie",
+        "Ejemplo": "There is lot of garbage on the floor"
+      }
+    ]
+  },
+  "table-pre4" : {
+    "rows": [
+      {
+        "Preposition": "Ago",
+        "Traduccion": "Se usa para tiempos especificos en el pasado",
+        "Ejemplo": "Ten minutes <span>ago</span>"
+      },
+      {
+        "Preposition": "Circa",
+        "Traduccion": "Se usa para dar fechas aproximadas",
+        "Ejemplo": "He was born <span>circa</span> 150 BC"
+      },
+      {
+        "Preposition": "Per",
+        "Traduccion": "Se usa para expresar el costo o cantidad de algo dividido entre otra unidad",
+        "Ejemplo": "60 miles <span>per</span> hour"
+      }
+    ]
+    }
+
+}
