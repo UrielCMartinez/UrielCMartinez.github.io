@@ -1,0 +1,271 @@
+{
+    "table-fam1" : {
+        "rows" : [
+            {
+                "Miembro" : "Madre",
+                "Traduccion" : "Mother",
+                "Pronunciacion" : "/máadze(r)/"
+            },
+            {
+                "Miembro" : "Padre",
+                "Traduccion" : "Father",
+                "Pronunciacion" : "/fáaadze(r)/"
+            },
+            {
+                "Miembro" : "Padres",
+                "Traduccion" : "Parents",
+                "Pronunciacion" : "/péeerents/"
+            },
+            {
+                "Miembro" : "Esposa",
+                "Traduccion" : "Wife",
+                "Pronunciacion" : "/uáif/"
+            },
+            {
+                "Miembro" : "Marid",
+                "Traduccion" : "Husband",
+                "Pronunciacion" : "/hhháassband/"
+            },
+            {
+                "Miembro" : "Hija",
+                "Traduccion" : "Daughter",
+                "Pronunciacion" : "/dóote(r)/"
+            },
+            {
+                "Miembro" : "Hijo",
+                "Traduccion" : "Son",
+                "Pronunciacion" : "/saan/"
+            },
+            {
+                "Miembro" : "Hijos",
+                "Traduccion" : "Children",
+                "Pronunciacion" : "/chíldren/"
+            },
+            {
+                "Miembro" : "Hermano",
+                "Traduccion" : "Brother",
+                "Pronunciacion" : "/bráadze(r)/"
+            },
+            {
+                "Miembro" : "Hermana",
+                "Traduccion" : "Sister",
+                "Pronunciacion" : "/síste(r)/"
+            },
+            {
+                "Miembro" : "Hermanos",
+                "Traduccion" : "Siblings",
+                "Pronunciacion" : "/síblin(g)ss/"
+            }
+        ]
+    },
+    "table-fam2" : {
+        "rows" : [
+            {
+                "Miembro" : "Abuela",
+                "Traduccion" : "Grand-mother",
+                "Pronunciacion" : "/gránmaadze(r)/"
+            },
+            {
+                "Miembro" : "Abuelo",
+                "Traduccion" : "Granfather",
+                "Pronunciacion" : "/gránfaaadze(r)/"
+            },
+            {
+                "Miembro" : "Abuelos",
+                "Traduccion" : "Granparents",
+                "Pronunciacion" : "/gránpeerents/"
+            },
+            {
+                "Miembro" : "Nieta",
+                "Traduccion" : "Granddaughter",
+                "Pronunciacion" : "/grándoote(r)/"
+            },
+            {
+                "Miembro" : "Nieto",
+                "Traduccion" : "Grandson",
+                "Pronunciacion" : "/gránsaan/"
+            },
+            {
+                "Miembro" : "Nietos",
+                "Traduccion" : "Grandchildren",
+                "Pronunciacion" : "/gránchildren/"
+            }
+        ]
+    },
+    "table-fam3": {
+        "rows" : [
+            {
+                "Miembro" : "Tio",
+                "Traduccion" : "Uncle",
+                "Pronunciacion" : "/aankl/"
+            },
+            {
+                "Miembro" : "Tia",
+                "Traduccion" : "Aunt",
+                "Pronunciacion" : "/aaant/"
+            },
+            {
+                "Miembro" : "Primo/a",
+                "Traduccion" : "Cousin",
+                "Pronunciacion" : "/káassin/"
+            },
+            {
+                "Miembro" : "Sobrina",
+                "Traduccion" : "Niece",
+                "Pronunciacion" : "/niis/"
+            },
+            {
+                "Miembro" : "Sobrino",
+                "Traduccion" : "Nephew",
+                "Pronunciacion" : "/néfiuu/"
+            }
+        ]
+    },
+    "table-fam4" : {
+        "rows" : [
+            {
+                "Miembro" : "Suegra",
+                "Traduccion" : "Mother-in-law",
+                "Pronunciacion" : "/máadze(r)-in-loo/"
+            },
+            {
+                "Miembro" : "Suegro",
+                "Traduccion" : "Father-in-law",
+                "Pronunciacion" : "/fáaadze(r)-in-loo/"
+            },
+            {
+                "Miembro" : "Cuñado",
+                "Traduccion" : "Brother-in-law",
+                "Pronunciacion" : "/bráadze(r)-in-loo/"
+            },
+            {
+                "Miembro" : "Cuñada",
+                "Traduccion" : "Sister-in-law",
+                "Pronunciacion" : "/síste(r)-in-loo/"
+            },
+            {
+                "Miembro" : "Nuera",
+                "Traduccion" : "Daughter-in-law",
+                "Pronunciacion" : "/dóote(r)-in-loo/"
+            },
+            {
+                "Miembro" : "Yerno",
+                "Traduccion" : "Son-in-law",
+                "Pronunciacion" : "/saan-in-loo/"
+            }
+        ]
+    },
+    "table-fam5" : {
+        "rows" : [
+            {
+                "Miembro" : "Madrastra",
+                "Traduccion" : "Stepmother",
+                "Pronunciacion" : "/ssstépmaadze(r)/"
+            },
+            {
+                "Miembro" : "Padrastro",
+                "Traduccion" : "stepfather",
+                "Pronunciacion" : "/ssstépfaaadze(r)/"
+            },{
+                "Miembro" : "Hermanastra",
+                "Traduccion" : "Stepsister",
+                "Pronunciacion" : "/ssstépsiste(r)/"
+            },{
+                "Miembro" : "Media hermana",
+                "Traduccion" : "Half-sister",
+                "Pronunciacion" : "/hhháaaf-siste(r)/"
+            },
+            {
+                "Miembro" : "Hermanastro",
+                "Traduccion" : "Stepbrother",
+                "Pronunciacion" : "/ssstépbraadze(r)/"
+            },
+            {
+                "Miembro" : "Medio hermano",
+                "Traduccion" : "Half-brother",
+                "Pronunciacion" : "/hhháaaf-braadze(r)/"
+            }
+        ]
+    },
+    "table-fam6" : {
+        "rows" : [
+            {
+                "Miembro" : "Soltero",
+                "Traduccion" : "Single/ unmarried",
+                "Pronunciacion" : "/singl/ /aanmáriid/"
+            },
+            {
+                "Miembro" : "Prometido",
+                "Traduccion" : "Engaged",
+                "Pronunciacion" : "/inguéichd/"
+            },
+            {
+                "Miembro" : "Casado",
+                "Traduccion" : "Married",
+                "Pronunciacion" : "/máriid/"
+            },
+            {
+                "Miembro" : "Divorciado",
+                "Traduccion" : "Divorced",
+                "Pronunciacion" : "/divvvóo(r)st/"
+            },
+            {
+                "Miembro" : "Separado",
+                "Traduccion" : "Separated",
+                "Pronunciacion" : "/sépareitid/"
+            },
+            {
+                "Miembro" : "Separarse",
+                "Traduccion" : "to separate",
+                "Pronunciacion" : "/tu sépareit/"
+            },
+            {
+                "Miembro" : "Volver juntos",
+                "Traduccion" : "to get back together",
+                "Pronunciacion" : "/tu guet bak tuguédze(r)/"
+            },
+            {
+                "Miembro" : "prometido",
+                "Traduccion" : "fiancé",
+                "Pronunciacion" : "/fiónsei/"
+            },
+            {
+                "Miembro" : "prometida",
+                "Traduccion" : "fiancée",
+                "Pronunciacion" : "/fiónsei/"
+            },
+            
+            {
+                "Miembro" : "Novio",
+                "Traduccion" : "Boyfriend",
+                "Pronunciacion" : "/bóifrend/"
+            },
+            {
+                "Miembro" : "Novia",
+                "Traduccion" : "Girlfriend",
+                "Pronunciacion" : "/guée(r)lfrend/"
+            },
+            {
+                "Miembro" : "Pareja",
+                "Traduccion" : "Partner",
+                "Pronunciacion" : "/páaatne(r)/"
+            },
+            {
+                "Miembro" : "Viuda",
+                "Traduccion" : "Widow",
+                "Pronunciacion" : "/uídou/"
+            },
+            
+            {
+                "Miembro" : "Viudo",
+                "Traduccion" : "Widower",
+                "Pronunciacion" : "/uídoue(r)/"
+            },
+            {
+                "Miembro" : "Ser pariente (de)",
+                "Traduccion" : "to be related (to)",
+                "Pronunciacion" : "/tu bii riléitid (tu)/"
+            }
+        ]
+    }
+}
