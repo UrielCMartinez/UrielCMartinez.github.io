@@ -5,10 +5,7 @@ table{
     border: 1px solid white;
     font-size: 2rem;
 }
-thead th:nth-child(1){
-    width: 25%;
-    text-align: left;
-}
+
 th{
     color: black;
     background-color: aliceblue;

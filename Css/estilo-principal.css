@@ -130,6 +130,9 @@ span{
 .enfasis-present{
     color: var(--enfasis-color-present);
 }
+.enfasis-r{
+    color: red;
+}
 
 .home-links a{
     display: inline-flex;
@@ -164,7 +167,7 @@ span{
 }
 .btn:hover{
     box-shadow: none;
-    background-color: rgb(192, 192, 192);
+    background-color: rgb(43, 254, 233);
     transition: ease .5s;
 }
 .heading{
