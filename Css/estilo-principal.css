@@ -170,13 +170,14 @@ span{
     background-color: rgb(43, 254, 233);
     transition: ease .5s;
 }
+
 .heading{
     text-align: center;
     font-size: 4.5rem;
 }
-.heading{
+.heading-examples{
     text-align: center;
-    font-size: 4.5rem;
+    font-size: 3rem;
     color: var(--enfasis-color-present);
 }
 .container{
