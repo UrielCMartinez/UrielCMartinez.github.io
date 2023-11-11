@@ -22,7 +22,7 @@
                 "Pronunciacion" : "/uáif/"
             },
             {
-                "Miembro" : "Marid",
+                "Miembro" : "Marido",
                 "Traduccion" : "Husband",
                 "Pronunciacion" : "/hhháassband/"
             },
@@ -67,27 +67,27 @@
             },
             {
                 "Miembro" : "Abuelo",
-                "Traduccion" : "Granfather",
+                "Traduccion" : "Grand-father",
                 "Pronunciacion" : "/gránfaaadze(r)/"
             },
             {
                 "Miembro" : "Abuelos",
-                "Traduccion" : "Granparents",
+                "Traduccion" : "Grand-parents",
                 "Pronunciacion" : "/gránpeerents/"
             },
             {
                 "Miembro" : "Nieta",
-                "Traduccion" : "Granddaughter",
+                "Traduccion" : "Grand-daughter",
                 "Pronunciacion" : "/grándoote(r)/"
             },
             {
                 "Miembro" : "Nieto",
-                "Traduccion" : "Grandson",
+                "Traduccion" : "Grand-son",
                 "Pronunciacion" : "/gránsaan/"
             },
             {
                 "Miembro" : "Nietos",
-                "Traduccion" : "Grandchildren",
+                "Traduccion" : "Grand-children",
                 "Pronunciacion" : "/gránchildren/"
             }
         ]
@@ -159,16 +159,16 @@
         "rows" : [
             {
                 "Miembro" : "Madrastra",
-                "Traduccion" : "Stepmother",
+                "Traduccion" : "Step-mother",
                 "Pronunciacion" : "/ssstépmaadze(r)/"
             },
             {
                 "Miembro" : "Padrastro",
-                "Traduccion" : "stepfather",
+                "Traduccion" : "Step-father",
                 "Pronunciacion" : "/ssstépfaaadze(r)/"
             },{
                 "Miembro" : "Hermanastra",
-                "Traduccion" : "Stepsister",
+                "Traduccion" : "Step-sister",
                 "Pronunciacion" : "/ssstépsiste(r)/"
             },{
                 "Miembro" : "Media hermana",
@@ -177,7 +177,7 @@
             },
             {
                 "Miembro" : "Hermanastro",
-                "Traduccion" : "Stepbrother",
+                "Traduccion" : "Step-brother",
                 "Pronunciacion" : "/ssstépbraadze(r)/"
             },
             {

@@ -22,6 +22,9 @@ th,td{
 }
 
 @media (max-width: 800px){
+    .table-box{
+        background-color: blueviolet;
+    }
     table{
         font-size: 2rem;
     }

@@ -11,10 +11,10 @@
     font-family: 'Poppins', sans-serif;
 }
 :root{
-    --bg-color: #0c1320;
-    --second-bg-color: #121b2b;
+    --bg-color: #05171e;
+    --second-bg-color: rgb(8, 55, 69);
     --text-color: #fff;
-    --main-color: rgb(30, 196, 238);
+    --main-color: rgb(26, 172, 170);
     --enfasis-color: rgb(49, 165, 51);
     --enfasis-color-pink: rgb(210, 32, 112);
     --enfasis-color-present: rgb(200, 30, 30);
@@ -99,7 +99,7 @@ section{
     display: none;
 }
 .boton-test{ 
-    background-color: rgb(175, 13, 132);
+    background-color: rgb(13, 175, 126);
     color: white;
     padding: 10px;
     border-radius: 25px;
@@ -167,6 +167,18 @@ span{
 .home-box a{
     text-decoration: none;
     color: black;
+}
+.home-box button{
+  margin: 5px;
+  padding: 5px;  
+}
+.section-btn{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--second-bg-color);
+    padding: 10px;
+    border-radius: 20px;
+    align-items: center;
 }
 .btn{
     margin-top: 25px;
@@ -334,15 +346,40 @@ span{
     flex-wrap: wrap;
     gap: 2rem;
 }
-.structures-container .structures-box{
+.structures-container{
     flex: 1 1 20rem;
     background: var(--second-bg-color);
     padding: 3rem 2rem 4rem;
-    padding: 80px;
     border-radius: 2rem;
     text-align: center;
     border: .2rem solid var(--bg-color);
     transition: .5s ease;
+}
+.structures-box{
+    flex:2rem;
+    background:rgb(13, 13, 41);
+    padding: 3rem 2rem 4rem;
+    padding-bottom: 10px;
+    border-radius: 2rem;
+    text-align: center;
+    border: .2rem solid var(--bg-color);
+    transition: .5s ease;   
+}
+.structures-box-times{
+    width: 100%;
+    background:rgb(13, 13, 41);
+    border-radius: 2rem;
+    text-align: center;
+    transition: .5s ease;
+}
+.structures-box-times i,h3{
+    font-size: 4rem;
+}
+.structures-box-times p{
+    font-size: 2rem;
+}
+.structures-box-times a{
+    margin: 20px;
 }
 .iconTop a{
     display: flex;
