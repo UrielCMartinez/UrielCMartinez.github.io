@@ -23,7 +23,7 @@ th,td{
 
 @media (max-width: 800px){
     .table-box{
-        background-color: blueviolet;
+        background-color: rgb(18, 36, 41);
     }
     table{
         font-size: 2rem;
