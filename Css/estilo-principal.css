@@ -212,6 +212,23 @@ span{
     font-size: 3rem;
     color: var(--enfasis-color-present);
 }
+.oration-p{
+    font-size: 18px;
+}
+.number{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    color: black;
+    border-radius: 25px;
+    padding: 5px;
+
+}
+.oration-box{
+    display: flex;
+    flex-direction: row;
+}
 .container{
     display: flex;
     justify-content: center;
@@ -337,7 +354,7 @@ span{
     color: var(--main-color);
 }
 .structures-box h3{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 .structures-box p{
     font-size: 1.6rem;
