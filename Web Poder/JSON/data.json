@@ -1,0 +1,16 @@
+{
+    "tabla" : {
+        "rows" : [
+            {
+                "numero" : "First",
+            "descripcion" : "informacion",
+            "info-completa": "informacion completa" 
+            },
+            {
+                "numero" : "Second",
+            "descripcion" : "informacion",
+            "info-completa": "informacion completa" 
+            } 
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,200&display=swap');
+
+*{
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: blue;
+    color: white;
+}
+section{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(39, 130, 152);
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+a:hover{
+    background-color: white;
+    color: rgb(39, 130, 152);
+    transition: .5s ease;
+    transform: scale(1.2);
+}
+
