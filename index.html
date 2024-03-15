@@ -1,19 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Repository</title>
-    <link rel="stylesheet" href="style.css">
+    <title>AquaApp</title>
+    <!--css icons-->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!--End css icons-->
+    <link rel="stylesheet" href="Css/estilo-principal.css">
+
 </head>
+
 <body>
     <header class="header">
-        <h1>Repository GeminisB</h1>
+        <img src="./media/logo.png" class="img-logo">
+        <a href="#" class="logo">Aqua-English</a>
+
+        <i class='bx bx-menu' id="menu-icon"></i>
+
+        <nav class="navbar">
+            <a href="#home" class="active">Home</a>
+            <a href="#temary">Temary</a>
+            <a href="#about">About</a>
+        </nav>
     </header>
-    <section>
-        <a href="english page/index.html">English page</a>
-        <a href="Web Poder/index.html">PSic-Eng</a>
-        <a href="Web Poder/index-spanish.html">Psic-Esp</a>
+
+    <section class="home" id="home">
+        <div class="home-content">
+            <h2 class="heading">English <span>Principal</span></h2>
+            <div class="section-btn">
+                <p>Repository to learn English</p>
+                <div class="home-box">
+                    <button class="btn"><a href="basicVerbs.html">Basic Verbs</a></button>
+                    <button class="btn"><a href="modalVerbs.html">Modal Verbs</a></button>
+                    <button class="btn"><a href="regularVerbs.html">Regular Verbs</a></button>
+                    <button class="btn"><a href="irregularVerbs.html">Irregular Verbs</a></button>
+
+                </div>
+            </div>
+            <div class="home-links">
+                <a href="#temary"><i class='bx bx-bookmark-alt-minus'></i>Temary</a>
+                <a href="#"><i class='bx bx-bookmark-alt-minus'></i>Intermediate</a>
+                <a href="#"><i class='bx bx-bookmark-alt-minus'></i>Advanced</a>
+            </div>
+            <div class="section-btn">
+                <div class="home-box">
+                    <button class="boton-test">Test</button>
+                    <button class="btn boton-test enfasis-y"><a href="200orations.html">200 more used orations</a></button>
+                </div>
+            </div>
+        </div>
     </section>
+    <section class="temary" id="temary">
+        <h2 class="heading">Tema <span>ry</span></h2>
+        <div class="temary-container">
+            <div class="temary-box">
+                <i class='bx bxl-netlify'></i>
+                <h3>Structures</h3>
+                <p>Info</p>
+                <a href="structures.html" class="btn">Read More</a>
+            </div>
+            <div class="temary-box">
+                <i class='bx bx-ghost'></i>
+                <h3>Pronouns</h3>
+                <p>Info</p>
+                <a href="pronouns.html" class="btn">Read More</a>
+            </div>
+            <div class="temary-box">
+                <i class='bx bx-question-mark'></i>
+                <h3>Question Words</h3>
+                <p>Info</p>
+                <a href="QuestionWords.html" class="btn">Read More</a>
+            </div>
+            <div class="temary-box">
+                <i class='bx bxs-castle'></i>
+                <h3>Elemental</h3>
+                <p>Info</p>
+                <a href="menu-elemental.html" class="btn">Read More</a>
+            </div>
+        </div>
+    </section>
+    <section class="about" id="about">
+        <h2 class="heading">About <span>this</span></h2>
+        <p class="parrafos">No es una Pagina web, o una aplicacion web didactica para aprender un segundo idioma,
+            simplemente es un repositorio en el que puedes tener acceso a las estructuras que necesitas conocer
+            para repasar cuando lo necesites.
+        </p>
+        <p class="parrafos"><br>lo que podras repasar en esta aplicacion web son:
+            verbos regulares e irregulares, estructuras del idioma en pasado, presente, futuro, pronombres.
+        </p>
+    </section>
+    <footer class="footer">
+        <div class="footer-text">
+            <p>
+                Copy &copy; 2023 | All right reserved
+            </p>
+        </div>
+        <div class="footer-iconTop">
+            <a href="#home"><i class='bx bxs-up-arrow'></i></a>
+        </div>
+    </footer>
+    <script src="JS/javascript.js"></script>
 </body>
+
 </html>
