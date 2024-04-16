@@ -11,6 +11,16 @@
     font-family: 'Poppins', sans-serif;
 }
 :root{
+    --bg-color: #ffffff;
+    --second-bg-color: rgb(18, 62, 119);
+    --text-color: #c5c5c5;
+    --main-color: rgb(6, 13, 105);
+    --enfasis-color: rgb(49, 119, 165);
+    --enfasis-color-pink: rgb(169, 32, 210);
+    --enfasis-color-present: rgb(30, 75, 200);
+}
+/**
+:root{
     --bg-color: #05171e;
     --second-bg-color: rgb(8, 55, 69);
     --text-color: #fff;
@@ -19,6 +29,7 @@
     --enfasis-color-pink: rgb(210, 32, 112);
     --enfasis-color-present: rgb(200, 30, 30);
 }
+**/
 html{
     font-size: 62.5%;
     overflow-x: hidden;
