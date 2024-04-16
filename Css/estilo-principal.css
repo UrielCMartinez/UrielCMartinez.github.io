@@ -14,10 +14,10 @@
     --bg-color: #ffffff;
     --second-bg-color: rgb(18, 62, 119);
     --text-color: #c5c5c5;
-    --main-color: rgb(6, 13, 105);
+    --main-color: rgb(88, 97, 226);
     --enfasis-color: rgb(49, 119, 165);
     --enfasis-color-pink: rgb(169, 32, 210);
-    --enfasis-color-present: rgb(30, 75, 200);
+    --enfasis-color-present: rgb(113, 145, 233);
 }
 /**
 :root{
@@ -153,7 +153,7 @@ span{
     color: var(--enfasis-color);
 }
 .enfasis-y{
-    color: yellow;
+    color: rgb(214, 10, 10);
 }
 .enfasis-pink{
     color: var(--enfasis-color-pink);
